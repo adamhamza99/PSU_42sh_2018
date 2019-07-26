@@ -1,5 +1,5 @@
 # PSU_42sh_2018
-42sh Epitech final year project
+42sh Epitech final year project, we had to write a program in C capable of emulating a UNIX-type command interpreter. The 42Sh can be likened to "Bash" or "Tcsh".
 
 # Getting started
 # Prerequisites
